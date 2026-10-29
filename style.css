@@ -1,0 +1,28 @@
+
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: large;
+    font-weight: bold;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 20px;
+
+
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    margin: 0;
+    background-color:aqua;
+}
